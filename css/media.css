@@ -1,0 +1,10 @@
+@media screen and (max-width:992px) {
+    .header-text h1 {
+        font-family: 'Alegreya', serif;
+        font-size: 40px !important;
+    }
+
+    .img-nav {
+        width: 25% !important;
+    }
+}
